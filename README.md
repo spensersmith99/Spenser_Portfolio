@@ -8,5 +8,5 @@ Spenser's data science portfolio.
 * Made accompanying data visualizations that helped highlight these findings
 
 # [Project 2: My MATLAB Library](https://github.com/spensersmith99/MATLAB-library)
-* Solved a variety of complex problems by creating the necessary algorithms
+* Solved a variety of complex problems by creating its accompanying necessary algorithm
 * Showcases extensive knowledge of functions, numerical analysis, array/matrix manipulation(necessary for data storage), and plots
