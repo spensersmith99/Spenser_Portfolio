@@ -12,4 +12,4 @@ Spenser's data science portfolio.
 * Created Tableau dashboard for visualization
 
 # [Project 3: Premier League 2020-2021](https://github.com/spensersmith99/EPL_2020-21)
-* Used Python to import an Excel sheet and create powerful data visualizations that help reader draw important conclusions
+* Used Python to import an Excel sheet and create powerful data visualizations that help readers draw important conclusions
